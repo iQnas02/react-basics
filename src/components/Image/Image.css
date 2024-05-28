@@ -1,0 +1,17 @@
+.image-card {
+    text-align: center;
+    margin: 20px;
+    flex-direction: column;
+    display: inline-block;
+}
+
+.image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+p {
+    font-size: 1em;
+    margin-top: 10px;
+}

@@ -1,0 +1,17 @@
+
+.button{
+    font-size: x-large;
+    color: #ece2e2;
+    background-color: #815332;
+   display: flex;
+    justify-self: center;
+    align-items: center;
+    padding: 10px 20px;
+
+}
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

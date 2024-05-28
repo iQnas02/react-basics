@@ -1,0 +1,16 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+
+}
+
+.hero h2 {
+    font-size: 1.5em;
+
+}
